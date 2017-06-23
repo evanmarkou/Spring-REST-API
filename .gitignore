@@ -23,5 +23,9 @@ hs_err_pid*
 
 #IntelliJ Idea project 
 .idea
-.iml
+*.iml
 /lib
+/vpproject
+src/main/webapp/
+src/test/
+target/
