@@ -44,7 +44,7 @@ public class DatabaseConfig {
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
         dataSource.setJdbcUrl("jdbc:mysql://localhost:3306/gsdsystem?verifyServerCertificate=false&useSSL=true");
         dataSource.setUsername("root");
-        dataSource.setPassword("@lWIM-ukL4h*");
+        dataSource.setPassword("************");
         dataSource.addDataSourceProperty("cachePrepStmts", "true");
         dataSource.addDataSourceProperty("prepStmtCacheSize", "250");
         dataSource.addDataSourceProperty("prepStmtCacheSqlLimit", "2048");
