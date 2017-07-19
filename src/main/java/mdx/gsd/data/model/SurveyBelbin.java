@@ -34,446 +34,446 @@ public class SurveyBelbin implements Serializable {
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q1h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q2h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q3h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q4h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q5h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q6h;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7a;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7b;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7c;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7d;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7e;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7f;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7g;
 
     @NotNull
     @Min(0)
     @Max(10)
-    @ApiModelProperty(notes = "Field to fill in the survey question")
+    @ApiModelProperty(notes = "Field to fill in the survey question", required = true)
     @Column(nullable = false)
     private Short q7h;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short implementer;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short coordinator;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short shaper;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short plant;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short resourceinvestigator;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short monitorevaluator;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short teamworker;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short completefinisher;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the results of survey")
+    @ApiModelProperty(notes = "Type of person coming from the results of survey", required = true)
     @Column(nullable = false)
     private Short specialist;
 

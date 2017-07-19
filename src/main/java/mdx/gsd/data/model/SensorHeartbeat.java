@@ -34,7 +34,7 @@ public class SensorHeartbeat implements Serializable {
     @NotNull
     @Min(0)
     @Column(nullable = false)
-    @ApiModelProperty(notes = "The rate level coming from the sensor")
+    @ApiModelProperty(notes = "The rate level coming from the sensor", required = true)
     private Short rate;
 
     public SensorHeartbeat(User sensorHeartbeatUser, Integer sensorHeartbeatId, LocalDateTime timestamp, Short rate) {

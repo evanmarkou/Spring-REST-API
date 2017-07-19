@@ -34,213 +34,213 @@ public class SurveyPaei implements Serializable {
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q1;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q2;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q3;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q4;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q5;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q6;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q7;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q8;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q9;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q10;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q11;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q12;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q13;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q14;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q15;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q16;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q17;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q18;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q19;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q20;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q21;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q22;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q23;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q24;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q25;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q26;
 
     @NotNull
     @Min(0)
     @Max(1)
-    @ApiModelProperty(notes = "Multiple Choice Question from survey")
+    @ApiModelProperty(notes = "Multiple Choice Question from survey", required = true)
     @Column(nullable = false)
     private Short q27;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the survey results")
+    @ApiModelProperty(notes = "Type of person coming from the survey results", required = true)
     @Column(nullable = false)
     private Short producer;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the survey results")
+    @ApiModelProperty(notes = "Type of person coming from the survey results", required = true)
     @Column(nullable = false)
     private Short administrator;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the survey results")
+    @ApiModelProperty(notes = "Type of person coming from the survey results", required = true)
     @Column(nullable = false)
     private Short entrepreneur;
 
     @NotNull
     @Min(0)
-    @ApiModelProperty(notes = "Type of person coming from the survey results")
+    @ApiModelProperty(notes = "Type of person coming from the survey results", required = true)
     @Column(nullable = false)
     private Short integrator;
 

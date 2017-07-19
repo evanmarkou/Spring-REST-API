@@ -33,7 +33,7 @@ public class SensorSweat implements Serializable {
     @NotNull
     @Min(0)
     @Column(nullable = false)
-    @ApiModelProperty(notes = "The sweat level coming from the sensor")
+    @ApiModelProperty(notes = "The sweat level coming from the sensor", required = true)
     private Short sweatlevel;
 
     public SensorSweat(User sensorSweatUser, Integer sensorSweatId, LocalDateTime timestamp, Short sweatlevel) {

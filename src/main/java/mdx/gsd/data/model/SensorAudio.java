@@ -34,19 +34,19 @@ public class SensorAudio implements Serializable {
     @NotNull
     @Min(0)
     @Column(nullable = false)
-    @ApiModelProperty(notes = "The angle coming from the sensor")
+    @ApiModelProperty(notes = "The angle coming from the sensor", required = true)
     private Short angle;
 
     @NotNull
     @Min(0)
     @Column(nullable = false)
-    @ApiModelProperty(notes = "The energy level coming from the sensor")
+    @ApiModelProperty(notes = "The energy level coming from the sensor", required = true)
     private Short energy;
 
     @NotNull
     @Min(0)
     @Column(nullable = false)
-    @ApiModelProperty(notes = "The confidence level coming from the sensor")
+    @ApiModelProperty(notes = "The confidence level coming from the sensor", required = true)
     private Short confidence;
 
     public SensorAudio(User sensorAudioUser, Integer sensorAudioId, LocalDateTime timestamp, Short angle, Short energy, Short confidence) {
