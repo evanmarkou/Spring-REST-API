@@ -15,5 +15,4 @@ TODO: Write usage instructions
 TODO: Write history
 
 ## License
-
-MIT Lisense
+Apache License. Check License for more details
